@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="selenium.test.RepositoryTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="test_getRepositoryList"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- selenium.test.RepositoryTest -->
+      <class name="selenium.test.LoginTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- selenium.test.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

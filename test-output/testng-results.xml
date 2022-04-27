@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Total repository count = 48]]>
+    </line>
+    <line>
+      <![CDATA[1: Dynamic Rep Item -> test-hxppxh]]>
+    </line>
+    <line>
+      <![CDATA[2: Dynamic Rep Item -> test-ztykzc]]>
+    </line>
+    <line>
+      <![CDATA[3: Dynamic Rep Item -> test-wmowqy]]>
+    </line>
+    <line>
+      <![CDATA[4: Dynamic Rep Item -> test-iaxopb]]>
+    </line>
+    <line>
+      <![CDATA[5: Dynamic Rep Item -> test-njtmwx]]>
+    </line>
+    <line>
+      <![CDATA[6: Dynamic Rep Item -> test-mdadug]]>
+    </line>
+    <line>
+      <![CDATA[7: Dynamic Rep Item -> test-nsleca]]>
+    </line>
+    <line>
+      <![CDATA[8: Dynamic Rep Item -> test-szyarg]]>
+    </line>
+    <line>
+      <![CDATA[9: Dynamic Rep Item -> test-jpgseb]]>
+    </line>
+    <line>
+      <![CDATA[10: Dynamic Rep Item -> test-woehub]]>
+    </line>
+    <line>
+      <![CDATA[11: Dynamic Rep Item -> test-ncgdqi]]>
+    </line>
+    <line>
+      <![CDATA[12: Dynamic Rep Item -> test-svrmke]]>
+    </line>
+    <line>
+      <![CDATA[13: Dynamic Rep Item -> test-ospxau]]>
+    </line>
+    <line>
+      <![CDATA[14: Dynamic Rep Item -> test-usyffl]]>
+    </line>
+    <line>
+      <![CDATA[15: Dynamic Rep Item -> Project5]]>
+    </line>
+    <line>
+      <![CDATA[16: Dynamic Rep Item -> test-cxgejt]]>
+    </line>
+    <line>
+      <![CDATA[17: Dynamic Rep Item -> test-yguydb]]>
+    </line>
+    <line>
+      <![CDATA[18: Dynamic Rep Item -> test-dlgpjv]]>
+    </line>
+    <line>
+      <![CDATA[19: Dynamic Rep Item -> test-gyhlnd]]>
+    </line>
+    <line>
+      <![CDATA[20: Dynamic Rep Item -> test-hbwiat]]>
+    </line>
+    <line>
+      <![CDATA[21: Dynamic Rep Item -> test-hsyvxl]]>
+    </line>
+    <line>
+      <![CDATA[22: Dynamic Rep Item -> test-yjlVSl]]>
+    </line>
+    <line>
+      <![CDATA[23: Dynamic Rep Item -> test-Fp-]]>
+    </line>
+    <line>
+      <![CDATA[24: Dynamic Rep Item -> new11]]>
+    </line>
+    <line>
+      <![CDATA[25: Dynamic Rep Item -> new10]]>
+    </line>
+    <line>
+      <![CDATA[26: Dynamic Rep Item -> new9]]>
+    </line>
+    <line>
+      <![CDATA[27: Dynamic Rep Item -> new8]]>
+    </line>
+    <line>
+      <![CDATA[28: Dynamic Rep Item -> new7]]>
+    </line>
+    <line>
+      <![CDATA[29: Dynamic Rep Item -> kkklnew]]>
+    </line>
+    <line>
+      <![CDATA[30: Dynamic Rep Item -> kkl]]>
+    </line>
+    <line>
+      <![CDATA[Total repository count = 48]]>
+    </line>
+    <line>
+      <![CDATA[time elapsed PT2.633S]]>
+    </line>
+    <line>
+      <![CDATA[Total repository count = 48]]>
+    </line>
+    <line>
+      <![CDATA[time elapsed PT2.661S]]>
+    </line>
+    <line>
+      <![CDATA[Total repository count = 48]]>
+    </line>
+    <line>
+      <![CDATA[1: Static Summary Item -> Your profile]]>
+    </line>
+    <line>
+      <![CDATA[2: Static Summary Item -> Your repositories]]>
+    </line>
+    <line>
+      <![CDATA[3: Static Summary Item -> Your codespaces]]>
+    </line>
+    <line>
+      <![CDATA[4: Static Summary Item -> Your projects]]>
+    </line>
+    <line>
+      <![CDATA[5: Static Summary Item -> Your stars]]>
+    </line>
+    <line>
+      <![CDATA[6: Static Summary Item -> Your gists]]>
+    </line>
+    <line>
+      <![CDATA[7: Static Summary Item -> Upgrade]]>
+    </line>
+    <line>
+      <![CDATA[8: Static Summary Item -> Help]]>
+    </line>
+    <line>
+      <![CDATA[9: Static Summary Item -> Settings]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111450" started-at="2022-04-24T12:45:43Z" finished-at="2022-04-24T12:47:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111450" started-at="2022-04-24T12:45:43Z" finished-at="2022-04-24T12:47:34Z">
+      <class name="selenium.test.LoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="setUp" is-config="true" duration-ms="1333" started-at="2022-04-24T12:47:17Z" finished-at="2022-04-24T12:47:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_loginToApplication()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="test_loginToApplication" duration-ms="9708" started-at="2022-04-24T12:47:18Z" finished-at="2022-04-24T12:47:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_loginToApplication -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="tearDown" is-config="true" duration-ms="680" started-at="2022-04-24T12:47:28Z" finished-at="2022-04-24T12:47:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="setUp" is-config="true" duration-ms="1310" started-at="2022-04-24T12:47:29Z" finished-at="2022-04-24T12:47:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_navigateToWebsite()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="test_navigateToWebsite" duration-ms="3381" started-at="2022-04-24T12:47:30Z" finished-at="2022-04-24T12:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_navigateToWebsite -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.LoginTest@77167fb7]" name="tearDown" is-config="true" duration-ms="1005" started-at="2022-04-24T12:47:33Z" finished-at="2022-04-24T12:47:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium.test.LoginTest -->
+      <class name="selenium.test.RepositoryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1926" started-at="2022-04-24T12:45:43Z" finished-at="2022-04-24T12:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_createNewRepository()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_createNewRepository" duration-ms="22467" started-at="2022-04-24T12:45:45Z" finished-at="2022-04-24T12:46:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total repository count = 48]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_createNewRepository -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="674" started-at="2022-04-24T12:46:07Z" finished-at="2022-04-24T12:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1321" started-at="2022-04-24T12:46:08Z" finished-at="2022-04-24T12:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_getDynamicElementRepositoryList()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_getDynamicElementRepositoryList" duration-ms="14408" started-at="2022-04-24T12:46:09Z" finished-at="2022-04-24T12:46:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1: Dynamic Rep Item -> test-hxppxh]]>
+            </line>
+            <line>
+              <![CDATA[2: Dynamic Rep Item -> test-ztykzc]]>
+            </line>
+            <line>
+              <![CDATA[3: Dynamic Rep Item -> test-wmowqy]]>
+            </line>
+            <line>
+              <![CDATA[4: Dynamic Rep Item -> test-iaxopb]]>
+            </line>
+            <line>
+              <![CDATA[5: Dynamic Rep Item -> test-njtmwx]]>
+            </line>
+            <line>
+              <![CDATA[6: Dynamic Rep Item -> test-mdadug]]>
+            </line>
+            <line>
+              <![CDATA[7: Dynamic Rep Item -> test-nsleca]]>
+            </line>
+            <line>
+              <![CDATA[8: Dynamic Rep Item -> test-szyarg]]>
+            </line>
+            <line>
+              <![CDATA[9: Dynamic Rep Item -> test-jpgseb]]>
+            </line>
+            <line>
+              <![CDATA[10: Dynamic Rep Item -> test-woehub]]>
+            </line>
+            <line>
+              <![CDATA[11: Dynamic Rep Item -> test-ncgdqi]]>
+            </line>
+            <line>
+              <![CDATA[12: Dynamic Rep Item -> test-svrmke]]>
+            </line>
+            <line>
+              <![CDATA[13: Dynamic Rep Item -> test-ospxau]]>
+            </line>
+            <line>
+              <![CDATA[14: Dynamic Rep Item -> test-usyffl]]>
+            </line>
+            <line>
+              <![CDATA[15: Dynamic Rep Item -> Project5]]>
+            </line>
+            <line>
+              <![CDATA[16: Dynamic Rep Item -> test-cxgejt]]>
+            </line>
+            <line>
+              <![CDATA[17: Dynamic Rep Item -> test-yguydb]]>
+            </line>
+            <line>
+              <![CDATA[18: Dynamic Rep Item -> test-dlgpjv]]>
+            </line>
+            <line>
+              <![CDATA[19: Dynamic Rep Item -> test-gyhlnd]]>
+            </line>
+            <line>
+              <![CDATA[20: Dynamic Rep Item -> test-hbwiat]]>
+            </line>
+            <line>
+              <![CDATA[21: Dynamic Rep Item -> test-hsyvxl]]>
+            </line>
+            <line>
+              <![CDATA[22: Dynamic Rep Item -> test-yjlVSl]]>
+            </line>
+            <line>
+              <![CDATA[23: Dynamic Rep Item -> test-Fp-]]>
+            </line>
+            <line>
+              <![CDATA[24: Dynamic Rep Item -> new11]]>
+            </line>
+            <line>
+              <![CDATA[25: Dynamic Rep Item -> new10]]>
+            </line>
+            <line>
+              <![CDATA[26: Dynamic Rep Item -> new9]]>
+            </line>
+            <line>
+              <![CDATA[27: Dynamic Rep Item -> new8]]>
+            </line>
+            <line>
+              <![CDATA[28: Dynamic Rep Item -> new7]]>
+            </line>
+            <line>
+              <![CDATA[29: Dynamic Rep Item -> kkklnew]]>
+            </line>
+            <line>
+              <![CDATA[30: Dynamic Rep Item -> kkl]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_getDynamicElementRepositoryList -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="661" started-at="2022-04-24T12:46:24Z" finished-at="2022-04-24T12:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1285" started-at="2022-04-24T12:46:24Z" finished-at="2022-04-24T12:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_getRepositoryCountCssSelector()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_getRepositoryCountCssSelector" duration-ms="11172" started-at="2022-04-24T12:46:26Z" finished-at="2022-04-24T12:46:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total repository count = 48]]>
+            </line>
+            <line>
+              <![CDATA[time elapsed PT2.633S]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_getRepositoryCountCssSelector -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="693" started-at="2022-04-24T12:46:37Z" finished-at="2022-04-24T12:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1422" started-at="2022-04-24T12:46:38Z" finished-at="2022-04-24T12:46:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_getRepositoryCountXpath()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_getRepositoryCountXpath" duration-ms="12419" started-at="2022-04-24T12:46:39Z" finished-at="2022-04-24T12:46:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total repository count = 48]]>
+            </line>
+            <line>
+              <![CDATA[time elapsed PT2.661S]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_getRepositoryCountXpath -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="674" started-at="2022-04-24T12:46:51Z" finished-at="2022-04-24T12:46:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1321" started-at="2022-04-24T12:46:52Z" finished-at="2022-04-24T12:46:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_getRepositoryCountXpathAbs()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_getRepositoryCountXpathAbs" duration-ms="11250" started-at="2022-04-24T12:46:53Z" finished-at="2022-04-24T12:47:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Total repository count = 48]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_getRepositoryCountXpathAbs -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="670" started-at="2022-04-24T12:47:05Z" finished-at="2022-04-24T12:47:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="setUp" is-config="true" duration-ms="1243" started-at="2022-04-24T12:47:05Z" finished-at="2022-04-24T12:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test_getStaticElementSummary()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="test_getStaticElementSummary" duration-ms="9723" started-at="2022-04-24T12:47:07Z" finished-at="2022-04-24T12:47:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[1: Static Summary Item -> Your profile]]>
+            </line>
+            <line>
+              <![CDATA[2: Static Summary Item -> Your repositories]]>
+            </line>
+            <line>
+              <![CDATA[3: Static Summary Item -> Your codespaces]]>
+            </line>
+            <line>
+              <![CDATA[4: Static Summary Item -> Your projects]]>
+            </line>
+            <line>
+              <![CDATA[5: Static Summary Item -> Your stars]]>
+            </line>
+            <line>
+              <![CDATA[6: Static Summary Item -> Your gists]]>
+            </line>
+            <line>
+              <![CDATA[7: Static Summary Item -> Upgrade]]>
+            </line>
+            <line>
+              <![CDATA[8: Static Summary Item -> Help]]>
+            </line>
+            <line>
+              <![CDATA[9: Static Summary Item -> Settings]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test_getStaticElementSummary -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:selenium.test.RepositoryTest@6b26e945]" name="tearDown" is-config="true" duration-ms="667" started-at="2022-04-24T12:47:16Z" finished-at="2022-04-24T12:47:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium.test.RepositoryTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
